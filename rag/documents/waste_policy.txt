@@ -1,0 +1,17 @@
+EcoOps 2.0 Demo Campus Waste Management Policy
+
+Document type: Synthetic hackathon demonstration policy.
+
+1. Unexpected increases in campus waste generation should be investigated before corrective action.
+
+2. Waste generation should be compared with occupancy, events, academic schedules, and historical patterns.
+
+3. Data quality should be checked when waste measurements differ substantially from expected values.
+
+4. Campus events may cause temporary increases in waste generation and should be considered when interpreting anomalies.
+
+5. Automatic operational changes should not be recommended when the cause of an increase cannot be established with sufficient confidence.
+
+6. Persistent or unexplained waste anomalies should be reviewed by the responsible campus operations team.
+
+7. Recommendations should clearly identify the evidence and policy guidance supporting the proposed action.

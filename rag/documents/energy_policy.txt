@@ -1,0 +1,17 @@
+EcoOps 2.0 Demo Campus Energy Policy
+
+Document type: Synthetic hackathon demonstration policy.
+
+1. Energy anomalies above normal operating baselines should be investigated before operational changes are made.
+
+2. Facilities teams should review HVAC schedules, equipment operating hours, occupancy patterns, and recent campus events when abnormal energy consumption is detected.
+
+3. Historical consumption patterns should be compared with the current reading to determine whether the anomaly is unusual for the location and time period.
+
+4. Sensor readings should be validated when the observed increase is inconsistent with expected operational conditions.
+
+5. Automatic optimization should not be applied when there is evidence of equipment malfunction, sensor uncertainty, or an extreme unexplained consumption increase.
+
+6. High-risk or unexplained energy anomalies should be escalated to the campus facilities team for human review.
+
+7. Any operational change should be traceable to the anomaly, supporting evidence, and applicable policy guidance.

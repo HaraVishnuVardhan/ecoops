@@ -1,0 +1,17 @@
+EcoOps 2.0 Demo Campus Water Conservation Policy
+
+Document type: Synthetic hackathon demonstration policy.
+
+1. Unusual increases in water consumption should be investigated before intervention.
+
+2. Facilities teams should check for possible leaks, abnormal usage patterns, occupancy changes, and campus events.
+
+3. Water sensor readings should be validated when a sensor has recently been installed, replaced, recalibrated, or repaired.
+
+4. Historical water consumption should be compared with current readings to determine whether the pattern is consistent with previous operating conditions.
+
+5. Automatic operational changes should not be made when the cause of an anomaly is uncertain.
+
+6. Suspected infrastructure failures, persistent unexplained increases, or high-risk water anomalies should be escalated to the campus facilities team.
+
+7. Recommendations should include the evidence and policy guidance used to produce them.
