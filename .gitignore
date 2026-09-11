@@ -1,1 +1,11 @@
-.venv/ 
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+rag/chroma_db/
+frontend/node_modules/
+frontend/dist/
+.env
+.env.*
+.DS_Store
+Thumbs.db
